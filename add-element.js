@@ -2,7 +2,7 @@
 const newDiv = document.createElement("h2");
 
 // and give it some content
-const newContent = document.createTextNode("Hi there and greetings!");
+const newContent = document.createTextNode("What a lovely webpage!");
 
 // add the text node to the newly created div
 newDiv.appendChild(newContent);
